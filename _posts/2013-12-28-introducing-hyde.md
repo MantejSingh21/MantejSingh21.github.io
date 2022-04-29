@@ -1,11 +1,19 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About Me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi, I'm Mantej Singh. I'm a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research interests are in designing Brain Machine Interfaces and Computational Biophontonics. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy and rock climbing.
 
-### Built on Poole
+### Education
+
+<div class="message">
+  Ph.D Candidate, Biomedical Engineering (Neuroengineering) - Johns Hopkins University School of Medicine 2022 - Present
+</div>
+
+<div class="message">
+  Bachelor of Science, Computer Science - Rice University 2018 - 2022, Distinction in Research and Creative Works.
+</div>
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
