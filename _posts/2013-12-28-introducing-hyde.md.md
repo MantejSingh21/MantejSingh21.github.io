@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research is in designing <a href="https://www.fridmanlab.org/neuroengineering" target="_blank">Brain Machine Interfaces</a> and <a href="https://durr.jhu.edu/" target="_blank">Computational Biophonotics</a>. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy and rock climbing.
+Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research is in designing <a href="https://www.fridmanlab.org/neuroengineering" target="_blank">Brain Machine Interfaces</a> and <a href="https://durr.jhu.edu/" target="_blank">Computational Biophotonics</a>. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy, and rock climbing.
 
 ### Education
 
@@ -30,10 +30,31 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
   <tbody>
     <tr>
       <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
+      <td>Rice Undergraduate Research Conference</td>
+      <td>Rice University, Houston, TX</td>
+      <td>Poster Presentation</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
       <td>Ken Kennedy AI and Data Science Conference</td>
       <td>Biosciences Research Collaborative, Houston, TX</td>
       <td>Presentation</td>
       <td>2021</td>
+    </tr>
+    <tr>
+      <td>Decoding Phonemes Using Brain Electrocorticography (ECoG) Data </td>
+      <td>Tandon Lab</td>
+      <td>McGovern Medical School, Houston, TX</td>
+      <td>Research Paper (In Preparation)</td>
+      <td>2020 - 2021</td>
+    </tr>
+    <tr>
+      <td>Automatic Reconstruction of 3D Vascular model of Human brain from MRI </td>
+      <td>Tandon Lab</td>
+      <td>McGovern Medical School, Houston, TX</td>
+      <td>Software</td>
+      <td>2020 - 2021</td>
     </tr>
     <tr>
       <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
@@ -49,6 +70,20 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
       <td>Talk</td>
       <td>2021</td>
     </tr>
+    <tr>
+      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
+      <td>Gulf Coast Undergraduate Research Conference</td>
+      <td>Rice University, Houston, TX</td>
+      <td>Presentation</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
+      <td>Rice Undergraduate Research Conference</td>
+      <td>Rice University, Houston, TX</td>
+      <td>Poster Presentation</td>
+      <td>2022</td>
+    </tr>
   </tbody>
 </table>
 
@@ -60,23 +95,8 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
 * Presidents Honor Roll - Rice University, 2021-2022
 * Hershel. M Rich Innovation Award - Rice University, 2020
 
+### Code and Software
 
-### Hyde features
-
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/hyde#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+* Vessel Reconstruction
+* Sophia 
+* Kinetica 
