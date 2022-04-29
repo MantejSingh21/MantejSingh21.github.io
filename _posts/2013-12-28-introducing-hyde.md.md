@@ -89,13 +89,13 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
 
 ### Work Experiences
 
-* <strong> Software Architecture Intern, Lutron </strong> <em> Austin TX May 2021 — Aug 2021 </em>
+<strong> Software Architecture Intern, Lutron </strong> <em> Austin TX May 2021 — Aug 2021 </em>
 
 - Developed an easy to use, versatile and reusable graph data structure in Swift that can be used to build troubleshooting guides to solve different technical issues faced by customers trying to set up their home systems.
 
 - My framework allowed engineers to rapidly build and incorporate a troubleshooting guide within their apps which has led to a 30% decrease in customer calls to the technical support hotline, freeing up resources for more pertinent issues.
 
-* <strong> Robotics Research Intern, Kavraki Lab </strong> <em> Houston TX Jan 2021 — May 2021 </em>
+<strong> Robotics Research Intern, Kavraki Lab </strong> <em> Houston TX Jan 2021 — May 2021 </em>
 
 - Designed a novel robotic motion planning algorithm, Parallel Rapidly-Exploring Random Tree, that utilized multi-threading to
 calculate valid paths for autonomous robotic vehicles more quickly and efficiently.
@@ -103,14 +103,14 @@ calculate valid paths for autonomous robotic vehicles more quickly and efficient
 - The algorithm was able to calculate a valid motion path for an autonomous vehicle navigating obstacles 2.35x faster than the
 traditional sequential version of the algorithm.
 
-* <strong> Computational Neuroscience Intern, Tandon Lab </strong> <em> Houston TX May 2020 — Aug 2020 </em>
+<strong> Computational Neuroscience Intern, Tandon Lab </strong> <em> Houston TX May 2020 — Aug 2020 </em>
 
 - Built an automated system to reconstruct 3D vascular models of the brain from a patient’s MRI images to aid neurosurgeons in
 planning safer and more effective surgeries. Software currently pending FDA approval for use in clinical settings.
 
 - Developed a brain-to-text machine learning system to classify brain neural data into speech to aid patients with speech/neurological disorders in communication. Achieved a 20% classification accuracy across 23 English phoneme classes that match industry-leading classification models.
 
-* <strong> Software Developer Intern, Concur Hipmunk </strong> <em> San Francisco CA May 2019 — Aug 2019 </em>
+<strong> Software Developer Intern, Concur Hipmunk </strong> <em> San Francisco CA May 2019 — Aug 2019 </em>
 
 - Developed Andrepanel, an internal company tool to drive the parsing and visualization of important metrics such as popular flight routes, hotel bookings placed through our mobile app, and website booking systems into an intuitive dashboard.
 
@@ -118,15 +118,27 @@ planning safer and more effective surgeries. Software currently pending FDA appr
 
 ### Awards and Accomplishments
 
-* Distinction in Research and Creative Works - Rice University, 2022
-* Outstanding Senior Award - Rice University, 2022
-* Outstanding Junior Award - Rice University, 2021
-* Presidents Honor Roll - Rice University, 2021-2022
-* Hershel. M Rich Innovation Award - Rice University, 2020
-* Lilie New Entrepreneurs Grant - Rice University, 2018
+<strong> Distinction in Research and Creative Works </strong> <em> Rice University, 2022 </em>
+- DESCRIPTION OF AWARD
+
+<strong> Outstanding Senior Award </strong> <em> Rice University, 2022 </em>
+- DESCRIPTION OF AWARD
+
+<strong> Outstanding Junior Award </strong> <em> Rice University, 2021 </em>
+- DESCRIPTION OF AWARD
+
+<strong> Presidents Honor Roll </strong> <em> Rice University, 2021-2022 </em>
+- DESCRIPTION OF AWARD
+
+<strong> Hershel. M Rich Innovation Award </strong> <em> Rice University, 2020 </em>
+- DESCRIPTION OF AWARD
+
+<strong> Lilie New Entrepreneurs Grant </strong> <em> Rice University, 2018 </em>
+- DESCRIPTION OF AWARD
 
 ### Code and Software
 
 * Vessel Reconstruction
 * Sophia 
 * Kinetica 
+
