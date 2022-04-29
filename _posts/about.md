@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-Hi, I'm Mantej Singh. I'm a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research interests are in designing Brain Machine Interfaces and Computational Biophontonics. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy and rock climbing.
+Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research is in designing Brain Machine Interfaces and Computational Biophontonics. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy and rock climbing.
 
 ### Education
 
