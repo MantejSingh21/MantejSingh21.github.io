@@ -15,14 +15,51 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
   Bachelor of Science, Computer Science - Rice University 2018 - 2022, Distinction in Research and Creative Works.
 </div>
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+### Publications
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+<table>
+  <thead>
+    <tr>
+      <th>Research</th>
+      <th>Event</th>
+      <th>Location</th>
+      <th>Tags</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
+      <td>Ken Kennedy AI and Data Science Conference</td>
+      <td>Biosciences Research Collaborative, Houston, TX</td>
+      <td>Presentation</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
+      <td>Harvard Undergraduate National Collegiate Research Conference</td>
+      <td>Harvard University, Boston, MA</td>
+      <td>Plenary Speakership</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td>Open Source Innovation</td>
+      <td>TEDx Talk</td>
+      <td> GIIS, Singapore, SG</td>
+      <td>Talk</td>
+      <td>2021</td>
+    </tr>
+  </tbody>
+</table>
+
+### Awards and Accomplishments
+
+* Distinction in Research and Creative Works - Rice University, 2022
+* Outstanding Senior Award - Rice University, 2022
+* Outstanding Junior Award - Rice University, 2021
+* Presidents Honor Roll - Rice University, 2021-2022
+* Hershel. M Rich Innovation Award - Rice University, 2020
+
 
 ### Hyde features
 
