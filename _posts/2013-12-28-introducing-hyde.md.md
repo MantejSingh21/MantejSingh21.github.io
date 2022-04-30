@@ -142,33 +142,66 @@ experienced undergraduate researchers and I presented my research focused on the
 
 ### Code and Software
 
+`Sophia` - An Open-Source Computerized Maintenance Management System for Low-Resource Hospitals to track their inventory. 
+
+{% highlight js %}
+    // Coded in Kotlin with a SQL Server
+    Currently in development   
+}
+
+{% endhighlight %}
+Complete code can be found at this <a href="https://github.com/MantejSingh21/R360CMMS" target="_blank">Github Repository.</a>
+
+
 `Kinetica` - A wearable glove that automatically converts American Sign Language to spoken English, empowering the deaf-mute to communicate with any members of society.
 
 {% highlight js %}
-// Coded in C++ and Python - Framework is based on a gesture library that classifies gesture to a predetermined word
-std::map<String, std::pair<double, double>> gestureMap () {
+    // Coded in C++ and Python - Framework is based on a gesture library that classifies gesture to a predetermined word
+    std::map<String, std::pair<double, double>> gestureMap () {
     /*Library that maps each tuple of data to the corresponding gesture*/
     std::map<String, std::pair<double, double>> gestureLibrary;
     gestureLibrary['Hello'] = std::pair<double, double>(0.0,0.0);
     gestureLibrary['Goodbye'] = std::pair<double, double>(0.0,0.0);
     gestureLibrary['Nice_to_meet_you'] = std::pair<double, double>(0.0,0.0);
     gestureLibrary['Yes'] = std::pair<double, double>(0.0,0.0);
-    gestureLibrary['No'] = std::pair<double, double>(0.0,0.0);
-    gestureLibrary['Please'] = std::pair<double, double>(0.0,0.0);
-    gestureLibrary['Thanks'] = std::pair<double, double>(0.0,0.0);
-    gestureLibrary['1'] = std::pair<double, double>(0.0,0.0);
-    gestureLibrary['2'] = std::pair<double, double>(0.0,0.0);
-    gestureLibrary['3'] = std::pair<double, double>(0.0,0.0);
-    return gestureLibrary;
+    gestureLibrary['No'] = std::pair<double, double>(0.0,0.0);  
 }
 
+{% endhighlight %}
 Complete code can be found at this <a href="https://github.com/MantejSingh21/Kinetica/blob/master/Kinetica-flex-sensor-Classifier.cpp" target="_blank">Github Repository.</a>
 
+`Nywton` - A wearable sensor that can detect medically asymptomatic concussions during sports.
+
+{% highlight js %}
+// Coded in C++ and Arduino - Based on the ADXL345 accelerometer sensor
+    void ADXL_ISR() {
+    if(adxl.triggered(interrupts, ADXL345_DOUBLE_TAP)){
+      Serial.println("*** Possible Concussion ***");
+      tone(piezoPin, 250, 1500);
+    }
+}
+
 {% endhighlight %}
+Complete code can be found at this <a href="https://github.com/MantejSingh21/Nywton-" target="_blank">Github Repository.</a>
+
+`MAMx` - A fully autonomous software that can analyse and diagnose abnormalities in breast mammograms. 
+
+{% highlight js %}
+// Coded in Python with the OpenCV image library
+    # Calculating mean of non-black pixels, taking into account 1.2x for cancer markers
+    average_color_per_row_L_CC = np.average(img_L_CC, axis=0) 
+    average_color_per_row_L_CC = np.average(average_color_per_row_L_CC, axis=0)
+    average_color_L_CC = np.uint8(average_color_per_row_L_CC)
+    cancer_marker_intensity = average_color_L_CC * 1.2
+    print(cancer_marker_intensity)
+}
+
+{% endhighlight %}
+Complete code can be found at this <a href="https://github.com/MantejSingh21/MAMx" target="_blank">Github Repository.</a>
 
 
 
-* Vessel Reconstruction
+
 * Sophia 
-* Kinetica 
+
 
