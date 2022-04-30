@@ -118,15 +118,15 @@ planning safer and more effective surgeries. Software currently pending FDA appr
 
 ### Awards and Accomplishments
 
-<strong> Plenary Speaker – Harvard National Collegiate Research Conference </strong> <em> Harvard University, 2022 </em>
-- Selected to be a plenary speaker at Harvard’s National Collegiate Research Conference. Plenary speakers are considered the most
-experienced undergraduate researchers and I presented my research focused on the topic of Future Integration of Robots in Society.
-
 <strong> Distinction in Research and Creative Works </strong> <em> Rice University, 2022 </em>
 - Recognizes graduates who have shown persistent and dedicated research to their field of study and whose research has produced concrete outcomes and demonstrate achievement above and beyond the norm.
 
 <strong> Outstanding Senior Award </strong> <em> Rice University, 2022 </em>
 - Awarded to one Senior in the School of Engineering at Rice University who demonstrated excellence in leadership, research and service to society.
+
+<strong> Plenary Speaker – Harvard National Collegiate Research Conference </strong> <em> Harvard University, 2022 </em>
+- Selected to be a plenary speaker at Harvard’s National Collegiate Research Conference. Plenary speakers are considered the most
+experienced undergraduate researchers and I presented my research focused on the topic of Future Integration of Robots in Society.
 
 <strong> Outstanding Junior Award </strong> <em> Rice University, 2021 </em>
 - Awarded to one Junior in the School of Engineering at Rice University who demonstrated excellence in leadership, research and service to society.
@@ -188,7 +188,7 @@ Complete code can be found at this <a href="https://github.com/MantejSingh21/Nyw
 
 {% highlight js %}
 // Coded in Python with the OpenCV image library
-    # Calculating mean of non-black pixels, taking into account 1.2x for cancer markers
+    // Calculating mean of non-black pixels, taking into account 1.2x for cancer markers
     average_color_per_row_L_CC = np.average(img_L_CC, axis=0) 
     average_color_per_row_L_CC = np.average(average_color_per_row_L_CC, axis=0)
     average_color_L_CC = np.uint8(average_color_per_row_L_CC)
