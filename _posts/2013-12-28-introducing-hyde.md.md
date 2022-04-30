@@ -118,23 +118,27 @@ planning safer and more effective surgeries. Software currently pending FDA appr
 
 ### Awards and Accomplishments
 
+<strong> Plenary Speaker – Harvard National Collegiate Research Conference </strong> <em> Harvard University, 2022 </em>
+- Selected to be a plenary speaker at Harvard’s National Collegiate Research Conference. Plenary speakers are considered the most
+experienced undergraduate researchers and I presented my research focused on the topic of Future Integration of Robots in Society.
+
 <strong> Distinction in Research and Creative Works </strong> <em> Rice University, 2022 </em>
-- DESCRIPTION OF AWARD
+- Recognizes graduates who have shown persistent and dedicated research to their field of study and whose research has produced concrete outcomes and demonstrate achievement above and beyond the norm.
 
 <strong> Outstanding Senior Award </strong> <em> Rice University, 2022 </em>
-- DESCRIPTION OF AWARD
+- Awarded to one Senior in the School of Engineering at Rice University who demonstrated excellence in leadership, research and service to society.
 
 <strong> Outstanding Junior Award </strong> <em> Rice University, 2021 </em>
-- DESCRIPTION OF AWARD
+- Awarded to one Junior in the School of Engineering at Rice University who demonstrated excellence in leadership, research and service to society.
 
 <strong> Presidents Honor Roll </strong> <em> Rice University, 2021-2022 </em>
-- DESCRIPTION OF AWARD
+- Recognizes an undergraduate’s outstanding academic achievement.
 
 <strong> Hershel. M Rich Innovation Award </strong> <em> Rice University, 2020 </em>
-- DESCRIPTION OF AWARD
+- This award recognizes the best undergraduate engineering invention developed at Rice. Awarded for Kinetica.
 
 <strong> Lilie New Entrepreneurs Grant </strong> <em> Rice University, 2018 </em>
-- DESCRIPTION OF AWARD
+- Awarded to one student in Rice’s freshmen class to develop a project under the guidance of the team at Liu Idea Lab for Innovation and Entrepreneurship. Grant awarded to Kinetica.
 
 ### Code and Software
 
