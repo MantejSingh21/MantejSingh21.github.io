@@ -199,9 +199,3 @@ Complete code can be found at this <a href="https://github.com/MantejSingh21/Nyw
 {% endhighlight %}
 Complete code can be found at this <a href="https://github.com/MantejSingh21/MAMx" target="_blank">Github Repository.</a>
 
-
-
-
-* Sophia 
-
-
