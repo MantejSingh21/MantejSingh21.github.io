@@ -142,6 +142,32 @@ experienced undergraduate researchers and I presented my research focused on the
 
 ### Code and Software
 
+`Kinetica` - A wearable glove that automatically converts American Sign Language to spoken English, empowering the deaf-mute to communicate with any members of society.
+
+{% highlight js %}
+// Coded in C++ and Python - Framework is based on a gesture library that classifies gesture to a predetermined word
+std::map<String, std::pair<double, double>> gestureMap () {
+    /*Library that maps each tuple of data to the corresponding gesture*/
+    std::map<String, std::pair<double, double>> gestureLibrary;
+    gestureLibrary['Hello'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['Goodbye'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['Nice_to_meet_you'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['Yes'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['No'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['Please'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['Thanks'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['1'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['2'] = std::pair<double, double>(0.0,0.0);
+    gestureLibrary['3'] = std::pair<double, double>(0.0,0.0);
+    return gestureLibrary;
+}
+
+Complete code can be found at this <a href="https://github.com/MantejSingh21/Kinetica/blob/master/Kinetica-flex-sensor-Classifier.cpp" target="_blank">Github Repository.</a>
+
+{% endhighlight %}
+
+
+
 * Vessel Reconstruction
 * Sophia 
 * Kinetica 
