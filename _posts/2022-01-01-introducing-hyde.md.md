@@ -5,6 +5,8 @@ title: About Me
 
 Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research is in designing <a href="https://www.fridmanlab.org/neuroengineering" target="_blank">Brain Machine Interfaces</a> and <a href="https://durr.jhu.edu/" target="_blank">Computational Biophotonics</a>. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy, and rock climbing.
 
+[Resume Download](/assets/Mantej%20Singh%20CV%202022.pdf)
+
 ### Education
 
 <div class="message">
