@@ -23,68 +23,18 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
 
 [Poster] M. Singh, R. Shome, L. Kavraki. <strong> Parallel RRT Algorithm For Robotic Motion Planning </strong> <em> Rice Undergraduate Research Conference, 2022 </em>
 
-<table>
-  <thead>
-    <tr>
-      <th>Research</th>
-      <th>Event</th>
-      <th>Location</th>
-      <th>Tags</th>
-      <th>Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
-      <td>Rice Undergraduate Research Conference</td>
-      <td>Rice University, Houston, TX</td>
-      <td>Poster Presentation</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
-      <td>Ken Kennedy AI and Data Science Conference</td>
-      <td>Biosciences Research Collaborative, Houston, TX</td>
-      <td>Presentation</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Decoding Phonemes Using Brain Electrocorticography (ECoG) Data </td>
-      <td>Tandon Lab</td>
-      <td>McGovern Medical School, Houston, TX</td>
-      <td>Research Paper (In Preparation)</td>
-      <td>2020 - 2021</td>
-    </tr>
-    <tr>
-      <td>Automatic Reconstruction of 3D Vascular model of Human brain from MRI </td>
-      <td>Tandon Lab</td>
-      <td>McGovern Medical School, Houston, TX</td>
-      <td>Software</td>
-      <td>2020 - 2021</td>
-    </tr>
-    <tr>
-      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
-      <td>Harvard Undergraduate National Collegiate Research Conference</td>
-      <td>Harvard University, Boston, MA</td>
-      <td>Plenary Speakership</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Open Source Innovation</td>
-      <td>TEDx Talk</td>
-      <td> GIIS, Singapore, SG</td>
-      <td>Talk</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Parallel RRT Algorithm For Robotic Motion Planning</td>
-      <td>Gulf Coast Undergraduate Research Conference</td>
-      <td>Rice University, Houston, TX</td>
-      <td>Presentation</td>
-      <td>2021</td>
-    </tr>
-  </tbody>
-</table>
+[Poster] M. Singh, R. Shome, L. Kavraki. <strong> Parallel RRT Algorithm For Robotic Motion Planning </strong> <em> Ken Kennedy AI and Data Science Conference, 2022 </em>
+
+[Plenary Speaker] M. Singh, R. Shome, L. Kavraki. <strong> Parallel RRT Algorithm For Robotic Motion Planning </strong> <em> Harvard Undergraduate National Collegiate Research Conference, 2021 </em>
+
+[Paper] M. Singh, M. Kadipasaoglu, N. Tandon. <strong> Decoding Phonemes Using Brain Electrocorticography (ECoG) Data  </strong> <em> In Preparation, 2021 </em>
+
+[Software] M. Singh, K. Pham, N. Tandon. <strong> Automatic Reconstruction of 3D Vascular model of Human brain from MRI   </strong> <em> Tandon Lab, McGovern Medical School, 2021 </em>
+
+[Invited Speaker] M. Singh. <strong> Open Source Innovation   </strong> <em> TEDx Youth Singapore, 2021 </em>
+
+[Invited Speaker] M. Singh, K. Pham, N. Tandon. <strong> Automatic Reconstruction of 3D Vascular model of Human brain from MRI   </strong> <em> Gulf Coast Undergraduate Research Symposium, 2021 </em>
+
 
 ### Work Experiences
 
