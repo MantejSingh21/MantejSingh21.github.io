@@ -19,6 +19,8 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
 
 ### Publications
 
+[Poster Presentation] M.Singh, R.Shome, L.Kavraki. <strong> Parallel RRT Algorithm For Robotic Motion Planning </strong> <em> Rice Undergraduate Research Conference, 2022 </em>
+
 <table>
   <thead>
     <tr>
