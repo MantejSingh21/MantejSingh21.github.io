@@ -3,14 +3,14 @@ layout: post
 title: About Me
 ---
 
-Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research is in designing <a href="https://www.fridmanlab.org/neuroengineering" target="_blank">Brain Machine Interfaces</a> and <a href="https://durr.jhu.edu/" target="_blank">Computational Biophotonics</a>. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy, and rock climbing.
+Hi, I'm Mantej Singh, a Biomedical Engineering Phd Student at Johns Hopkins University School of Medicine. My interests are in the intersection of Medicine, Machines and Humanity. My research is in designing <a href="https://www.fridmanlab.org/neuroengineering" target="_blank">Brain Machine Interfaces</a> and <a href="https://durr.jhu.edu/" target="_blank">Computational Biophotonics</a>. In my free time, I enjoy exploring coffeeshops, doing stand-up comedy, and rock climbing.
 
 [Resume](/assets/Mantej%20Singh%20CV%202022.pdf) <a href="https://www.linkedin.com/in/mantej-singh-a4b844a8/" target="_blank">| LinkedIn</a> <a href="https://github.com/MantejSingh21" target="_blank">| Github</a> 
 
 ### Education
 
 <div class="message">
-  Ph.D Candidate, Biomedical Engineering (Neuroengineering) - Johns Hopkins University School of Medicine 2022 - Present
+  Ph.D Student, Biomedical Engineering (Neuroengineering) - Johns Hopkins University School of Medicine 2022 - Present
 </div>
 
 <div class="message">
@@ -35,6 +35,9 @@ Hi, I'm Mantej Singh, a Biomedical Engineering Phd Candidate at Johns Hopkins Un
 
 [Invited Speaker] M. Singh, K. Pham, N. Tandon. <strong> Automatic Reconstruction of 3D Vascular model of Human brain from MRI   </strong> <em> Gulf Coast Undergraduate Research Symposium, 2021 </em>
 
+
+### Entrepreneuership
+Co-founder of <strong> <em> Arithmedica </em> </strong>.
 
 ### Work Experiences
 
